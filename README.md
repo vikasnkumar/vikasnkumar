@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment, but love a good discussion on programming mathematics or hacks.
 - 📫 How to reach me:
 
-- Mastodon:[@vicash@fosstodon.org](https://fosstodon.org/@vicash)
+- Mastodon: <a rel="me" href="https://fosstodon.org/@vicash">@ vicash @ fosstodon.org</a>
 - Twitter: [@\_vicash\_](https://twitter.com/_vicash_)
 - Email: [github@vikaskumar.org](mailto:github@vikaskumar.org)
 - Blog: <https://www.vikaskumar.org>
