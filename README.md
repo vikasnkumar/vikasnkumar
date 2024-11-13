@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 
 - Mastodon: <a rel="me" href="https://fosstodon.org/@vicash">@ vicash @ fosstodon.org</a>
-- Twitter: [@\_vicash\_](https://twitter.com/_vicash_)
 - Email: [github@vikaskumar.org](mailto:github@vikaskumar.org)
 - Blog: <https://www.vikaskumar.org>
 
